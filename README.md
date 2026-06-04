@@ -38,4 +38,4 @@ Estoy abierto a participar en nuevos proyectos, realizar pruebas de software y c
 ---
 
 ### 📊 Mis Estadísticas de GitHub
-![Estadísticas de GitHub de Djaramit2025](https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Djaramit2025&show_icons=true&theme=radical&include_all_commits=true)
+![Tecnologías de Djaramit2025](https://github-readme-stats.vercel.app/api/top-langs/?username=Djaramit2025&layout=compact&theme=radical)
