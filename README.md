@@ -34,8 +34,3 @@ Estoy abierto a participar en nuevos proyectos, realizar pruebas de software y c
 
 *   💼 **LinkedIn:** www.linkedin.com/in/daniprogramador
 *   📧 **Correo electrónico:** daniprogramador2021@gmail.com
-
----
-
-### 📊 Mis Estadísticas de GitHub
-![Tecnologías de Djaramit2025](https://github-readme-stats.vercel.app/api/top-langs/?username=Djaramit2025&layout=compact&theme=radical)
